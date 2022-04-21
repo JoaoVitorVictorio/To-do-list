@@ -108,13 +108,3 @@ body {
     font-style: italic;
     font-weight: normal;
 }
-
-footer {
-    color: #44b2e6;
-    background-color: #122a57;
-    height: 50px;
-    display: flex;
-    align-items: center;
-    margin-top: 325px;
-    justify-content: center;
-}
